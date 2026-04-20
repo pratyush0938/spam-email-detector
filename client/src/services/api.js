@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://spam-email-detector-ji7h.onrender.com",
+  baseURL: "https://spam-email-detector-ji7h.onrender.com/api",
 });
 
 API.interceptors.request.use((config) => {
