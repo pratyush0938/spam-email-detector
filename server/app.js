@@ -1,11 +1,20 @@
 import express from "express";
 import cors from "cors";
-import predictionRoutes from "./routes/predictionRoutes.js";
 import authRoutes from "./routes/authRoutes.js";
+import predictionRoutes from "./routes/predictionRoutes.js";
 
 const app = express();
 
-app.use(cors());
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://spam-email-detector-1-urun.onrender.com",
+    ],
+    credentials: true,
+  })
+);
+
 app.use(express.json());
 
 app.get("/", (req, res) => {
