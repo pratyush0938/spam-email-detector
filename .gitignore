@@ -1,0 +1,57 @@
+
+---
+
+## `.gitignore` for deployment
+
+**Deploy version** ka matlab: aisi `.gitignore` jo Render deploy ko break na kare.  
+Isliye **ML model files ignore nahi karenge**.
+
+```gitignore
+# =========================
+# Node
+# =========================
+**/node_modules/
+
+# =========================
+# Python
+# =========================
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# =========================
+# Build output
+# =========================
+**/dist/
+**/build/
+
+# =========================
+# IDE / OS files
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Misc
+# =========================
+*.swp
+*.swo

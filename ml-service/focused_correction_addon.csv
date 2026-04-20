@@ -1,0 +1,24 @@
+label,subject,email_text
+1,Work from home job approved,Your remote job profile has been shortlisted. To confirm the position please pay the registration amount and submit your identity details today.
+1,Pending courier payment,Your package is waiting for release. A small courier payment is required immediately to continue the delivery process.
+1,Mailbox reactivation needed,Your mailbox has been temporarily disabled. Login now through the secure page and reactivate access immediately.
+1,Payroll bonus review pending,Your employee bonus cannot be processed until you verify your payroll credentials and bank details today.
+1,Invoice update action required,Your invoice requires urgent review. Open the attached sheet and confirm company payment information now.
+1,Office mailbox quota exceeded,Your office mailbox storage has exceeded the allowed quota. Verify your account and restore service today.
+1,Remote interview fee required,Your work from home application has been approved. Pay the processing fee to receive interview details.
+1,Package address verification,Your parcel delivery failed due to incomplete address details. Confirm your address and pay the rescheduling fee now.
+1,Refund verification pending,We attempted to process your refund but your banking details must be verified first. Submit your account information immediately.
+1,Security validation required,Your profile triggered a security check. Verify your account credentials now to avoid temporary suspension.
+1,Vendor payment release issue,Your vendor payment cannot be completed until the attached account confirmation form is submitted.
+1,Shared document security alert,An unusual document access attempt was found. Confirm your login details through the attached secure page.
+0,Account statement for March,Please find attached the monthly account statement for March generated from your official banking relationship manager.
+0,Refund completed successfully,Your refund has been completed successfully and the credited amount will appear in your account within five business days.
+0,Official security update,The IT department recommends updating your password regularly and enabling two factor authentication from the official company portal.
+0,Monthly payroll confirmation,The payroll team confirms that salaries for this month have been processed successfully for all employees.
+0,Mailbox storage upgraded,Your mailbox storage quota has been increased successfully by the admin team. No action is required from your side.
+0,Courier payment confirmed,Your courier payment has already been received and your shipment is now scheduled for final delivery.
+0,Remote training invitation,You have been invited to attend the official remote onboarding training session tomorrow through the company portal.
+0,Invoice processed successfully,The submitted invoice has been verified and processed successfully by the finance department.
+0,Account recovery completed,Your account recovery request has been completed successfully. You may now sign in through the official login page.
+0,Payment receipt from vendor,Attached is the receipt for the approved vendor payment processed by your finance team last week.
+0,Security awareness session,All employees are requested to attend the official cyber security awareness session this Friday.
