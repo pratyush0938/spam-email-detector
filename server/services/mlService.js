@@ -12,7 +12,7 @@ export const getSpamPrediction = async (subject, email_text) => {
     console.error("ML Service Error:", error.message);
 
     throw new Error(
-      error.response?.data?.error || "Failed to get prediction from ML service",
+      error.response?.data?.error || "Failed to get prediction from ML service"
     );
   }
 };
